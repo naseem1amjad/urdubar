@@ -1,4 +1,4 @@
-# Udubar Plugin for webbrowser
+# Urdubar Plugin for webbrowser
 Urdubar is webbrowser extension for writing Urdu / Arabic in web page.
 <br><br>
 This repo provides source code of UrduBar for Chrome, Edge and FireFox.
