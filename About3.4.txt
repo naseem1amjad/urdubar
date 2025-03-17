@@ -1,0 +1,2 @@
+Does not required REFRESH for plugin to work properly.
+Works on ChatGPT Chat box as well.
